@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbdf1432-b624-44a7-91d0-20ef9dc0effe": {
+      "ProjectGuid": "dbdf1432-b624-44a7-91d0-20ef9dc0effe",
+      "DisplayName": "AuthAPI",
+      "ColorIndex": 0
+    },
+    "a8188ece-921e-4e0a-a534-895ccc78e69f": {
+      "ProjectGuid": "a8188ece-921e-4e0a-a534-895ccc78e69f",
+      "DisplayName": "Messaging",
+      "ColorIndex": 1
+    },
+    "bc6b02f8-1f03-40fa-9d1b-0fd9eac73671": {
+      "ProjectGuid": "bc6b02f8-1f03-40fa-9d1b-0fd9eac73671",
+      "DisplayName": "Application",
+      "ColorIndex": 2
+    },
+    "bf4a40e2-cf70-43ee-8a2c-2f1f1672dabb": {
+      "ProjectGuid": "bf4a40e2-cf70-43ee-8a2c-2f1f1672dabb",
+      "DisplayName": "Service",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

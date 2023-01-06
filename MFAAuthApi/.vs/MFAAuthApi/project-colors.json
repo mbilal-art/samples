@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "132cd1b7-ad05-4d44-8e1f-9f7a38cb1a3b": {
+      "ProjectGuid": "132cd1b7-ad05-4d44-8e1f-9f7a38cb1a3b",
+      "DisplayName": "MFAAuthApi",
+      "ColorIndex": 0
+    },
+    "b11aae66-1045-4220-ab6f-d2d499471f80": {
+      "ProjectGuid": "b11aae66-1045-4220-ab6f-d2d499471f80",
+      "DisplayName": "Messaging",
+      "ColorIndex": 1
+    },
+    "64d7a212-f2b8-4b23-9377-6e761c7e4fcf": {
+      "ProjectGuid": "64d7a212-f2b8-4b23-9377-6e761c7e4fcf",
+      "DisplayName": "Mockings",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysBook.Api", "SysBook.Api\SysBook.Api.csproj", "{DA8D3A2B-8EC7-4198-9032-A3877A41D02D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysBook.Domain", "SysBook.Domain\SysBook.Domain.csproj", "{87EA88F0-934B-4EE7-BB24-D73CA86B61D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8D3A2B-8EC7-4198-9032-A3877A41D02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8D3A2B-8EC7-4198-9032-A3877A41D02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8D3A2B-8EC7-4198-9032-A3877A41D02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8D3A2B-8EC7-4198-9032-A3877A41D02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EA88F0-934B-4EE7-BB24-D73CA86B61D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EA88F0-934B-4EE7-BB24-D73CA86B61D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EA88F0-934B-4EE7-BB24-D73CA86B61D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EA88F0-934B-4EE7-BB24-D73CA86B61D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65675B6F-48B4-4251-8A37-1601FB7647AD}
+	EndGlobalSection
+EndGlobal

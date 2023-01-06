@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "893e1386-4f4b-4c00-8cef-83553b747b44": {
+      "ProjectGuid": "893e1386-4f4b-4c00-8cef-83553b747b44",
+      "DisplayName": "Gateway",
+      "ColorIndex": 0
+    },
+    "9349631a-6639-4426-be64-b5b750ba98ad": {
+      "ProjectGuid": "9349631a-6639-4426-be64-b5b750ba98ad",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "e19f6d78-a4bf-4de5-a645-5fda7171433b": {
+      "ProjectGuid": "e19f6d78-a4bf-4de5-a645-5fda7171433b",
+      "DisplayName": "Service",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
